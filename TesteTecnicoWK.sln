@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TesteTecnicoWK", "TesteTecnicoWK\TesteTecnicoWK.csproj", "{433B3D63-E958-43EB-8993-4577B058E2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteTecnicoWK_Web", "TesteTecnicoWK_Web\TesteTecnicoWK_Web.csproj", "{D3A3CADA-2036-43CF-BF9C-63CDDABEE8E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{433B3D63-E958-43EB-8993-4577B058E2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{433B3D63-E958-43EB-8993-4577B058E2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{433B3D63-E958-43EB-8993-4577B058E2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{433B3D63-E958-43EB-8993-4577B058E2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3A3CADA-2036-43CF-BF9C-63CDDABEE8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A3CADA-2036-43CF-BF9C-63CDDABEE8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A3CADA-2036-43CF-BF9C-63CDDABEE8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A3CADA-2036-43CF-BF9C-63CDDABEE8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1A0A4A-8E62-44C3-B9D6-1D421C78D336}
+	EndGlobalSection
+EndGlobal
